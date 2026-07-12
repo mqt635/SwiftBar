@@ -25,7 +25,7 @@ or Install with Homebrew
 brew install swiftbar
 ```
 
-Runs on macOS Catalina (10.15) and up.
+Runs on macOS Monterey (12) and later.
 
 ## ...or build it from source
 - Clone or download a copy of this repository
